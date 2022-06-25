@@ -1,1 +1,1 @@
-![self-introduction](https://raw.githubsercontent.com/imguoguo/imguoguo/master/self-introduction.png)
+![self-introduction](https://raw.githubusercontent.com/imguoguo/imguoguo/master/self-introduction.png)
